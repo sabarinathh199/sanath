@@ -1,0 +1,9 @@
+{"menu": {  
+  "id": "week1",  
+  "Week Range": "Apr 6 - Apr 10",    
+    "menuitem": [  
+      {"Day": "Monday", "items":["Item 1","Item 2","Item 3"]},  
+      {"Day": "Tuesday", "items":["Item 4","Item 5","Item 6"]},  
+      {"Day": "Wednesday", "items":["Item 7","Item 8","Item 9"]}  
+    ]  
+}}  
